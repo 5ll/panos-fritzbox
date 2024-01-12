@@ -1,4 +1,6 @@
-# Palo Specifics
+# IPSec VPN zwischen Palo Alto und Fritzbox inkl. mehrere Netze hinter der Palo
+
+## Allgemein
 
 - Es kann nicht der im Internet kommunizierte all/all/all Modus verwendet werden
 - Palo möchte explizite crypto-Einstellungen
@@ -9,6 +11,7 @@ https://burth-online.de/cms/pages/dokumentationen/avm-fritzbox/fritzbox---vpn---
 https://forum.opnsense.org/index.php?topic=9222.0
 
 
+## Fritzbox Parameter erklärt
 
 | Parameter                | Beschreibung                                                                                           |
 |--------------------------|--------------------------------------------------------------------------------------------------------|
